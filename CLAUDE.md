@@ -16,5 +16,5 @@ Stačí otevřít `index.html` v prohlížeči. Pro fonty je potřeba internet.
 ## Důležité
 - Ceny a odkazy na eshop (SimpleShop) jsou přímo v HTML
 - Registrační odkazy vedou na form.simpleshop.cz
-- Termíny workshopu: 18. dubna a 23. dubna 2026
+- Termíny workshopu: 16. května a 23. dubna 2026
 - Demo ukázky (kalkulačka, sanitka, dashboard) jsou v `<template>` tazích na konci souboru
